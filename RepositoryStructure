@@ -1,0 +1,22 @@
+credit-decision-platform/
+├── dags/
+├── glue_jobs/
+├── services/
+├── sql/
+├── tests/
+├── sample_data/
+└── docs/
+---
+
+# requirements.txt
+
+```txt
+apache-airflow
+boto3
+pandas
+psycopg2-binary
+sqlalchemy
+rapidfuzz
+great-expectations
+lxml
+requests
