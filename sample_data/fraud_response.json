@@ -1,0 +1,7 @@
+{
+  "customer_id": "cust_001",
+  "fraud_score": 120,
+  "risk_level": "LOW",
+  "phone": "0501234567",
+  "email": "customer@example.com"
+}
